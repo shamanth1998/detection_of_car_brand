@@ -1,4 +1,4 @@
-# detection_of_car_brand
+# detection_of_Car_Brand 
 _ took a transfer learning Resnet_50 model which gave a better accuracy compared to vgg16 and inception v3
 
 # problem statement
